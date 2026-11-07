@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "models": 62,
+  "coefficient_rows": 4832,
+  "fit_records": 2904,
+  "all_186_archived_vehicle_contrasts_reproduced": true,
+  "maximum_chain_difference": 0.0,
+  "scope": "Additional reporting export, same frozen inputs/imputation states/model specifications; no new model selection; adjustment p values are exploratory and not multiplicity adjusted."
+}

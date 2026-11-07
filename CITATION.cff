@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this research companion and use the article citation once published."
+title: "Vehicle combinations and multiple fatal or serious casualties in collisions involving two vehicles in Great Britain"
+type: dataset
+authors:
+  - family-names: Dong
+    given-names: Mingming
+    orcid: "https://orcid.org/0009-0008-2098-3047"
+  - family-names: Chen
+    given-names: Ge
+version: "0.1.0-review"
+date-released: "2026-11-07"
+abstract: "Public aggregate results and selected source code for an observational study of recorded casualty multiplicity in STATS19 collisions. Complete analysis inputs and imputation states are separately prepared for confidential journal review."

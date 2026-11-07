@@ -1,0 +1,10 @@
+scope,n,multiple_ksi
+All two-vehicle KSI,50735,4119
+Context complete,48749,4052
+Extended complete under parked-profile rule,42250,3849
+Concordant injury-based reporting,31518,2941
+Exclude flag discordance,48920,4085
+All casualty flags equal 1,33318,2970
+Exclude 2024,37606,3059
+Exclude Metropolitan 2024,48858,4085
+Known vehicle type/weight,50265,4092

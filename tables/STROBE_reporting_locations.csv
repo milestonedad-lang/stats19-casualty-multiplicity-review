@@ -1,0 +1,23 @@
+item,topic,location,status
+1,Title and abstract,Title; Abstract,Reported
+2,Background,Introduction,Reported
+3,Study question,Introduction final paragraph,Reported
+4,Design,Materials and methods—Design and data source,Reported
+5,Setting and dates,Design and data source; S1 section A,Reported
+6,Eligible records,Design and data source; S1 section A,Reported
+7,Outcomes and covariates,Outcomes and vehicle combinations; Covariates; S1 Table A,Reported
+8,Measurements and sources,Design and data source; Outcomes; S1 section A,Reported
+9,Bias considerations,Sensitivity methods; Discussion,Reported with limitations
+10,Study size,Association models and uncertainty,All eligible records; no prospective sample-size calculation
+11,Quantitative coding,Covariates and driver profiles; S1 Table A,Reported
+12,Statistical methods,Missing covariates; Association models; Sensitivity; S1 B–F,Reported
+13,Analytic population,Results—Recorded casualty multiplicity; Table 1; S1 D,Final analysis membership and subset sizes; not a recruitment study
+14,Descriptive data and missingness,Table 1; S1 Table B; S2 descriptive tables,Reported for source population and analysed fields
+15,Outcome summaries,Results—Recorded casualty multiplicity; Table 1,Reported
+16,Primary estimates and adjustment,Results—Vehicle-combination associations; Fig 1; Methods,Reported
+17,Other analyses,Results—Sensitivity; Fig 2; S1 D–F; S2 Dataset,Reported and distinguished from primary tests
+18,Main findings,Discussion opening; Conclusions,Reported
+19,Limitations,"Discussion—Interpretation; Measurement, missingness and scope",Reported
+20,Interpretation,Discussion,Conditional association; no causal or individual-risk claim
+21,Generalisability,"Discussion—Measurement, missingness and scope",Bounded to eligible police-recorded collisions
+22,Funding and sponsor role,Author facts form; submission-system Financial Disclosure,Pending author confirmation; not asserted in main

@@ -1,0 +1,6 @@
+# For original model source files with the confidential analysis inputs.
+# The aggregate verifier uses only the Python standard library.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+threadpoolctl==3.6.0

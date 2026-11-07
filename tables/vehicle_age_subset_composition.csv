@@ -1,0 +1,8 @@
+exposure,includes_pedal_cycle,full_n,full_events,known_age_n
+car_hgv,False,1221,153,886
+car_motorcycle,False,12060,323,9364
+other_known,False,8126,730,4931
+other_known,True,13446,90,0
+two_cars,False,15412,2796,12475
+unknown,False,336,27,28
+unknown,True,134,0,0

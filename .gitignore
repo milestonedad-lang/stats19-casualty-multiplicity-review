@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+verification/latest_public_check.json
+confidential/
+reviewer-only/
+*.npz
+*Confidential*.zip
+analysis_observed_inputs.csv
+vehicle_observed_inputs.csv
+decoded_imputation*.csv
+data/imputations/

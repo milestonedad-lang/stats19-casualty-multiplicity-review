@@ -1,0 +1,16 @@
+{
+  "M2_primary": "Primary M2",
+  "M2_complete_case": "Complete cases",
+  "M2_missing_category": "Missing-category comparator",
+  "Concordant_IBR": "Concordant injury-based reporting",
+  "All_casualty_IBR": "All casualties injury-based reporting",
+  "Exclude_flag_discordance": "Exclude reporting-flag discrepancies",
+  "Exclude_2024": "Exclude 2024",
+  "Exclude_Metropolitan_2024": "Exclude Metropolitan Police 2024",
+  "Known_vehicle_types": "Known vehicle types",
+  "Known_vehicle_age_adjusted": "Known vehicle ages plus adjustment",
+  "MNAR_age_half": "Age odds \u00d70.5",
+  "MNAR_age_double": "Age odds \u00d72",
+  "MNAR_sex_half": "Recorded-sex odds \u00d70.5",
+  "MNAR_sex_double": "Recorded-sex odds \u00d72"
+}
